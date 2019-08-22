@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/zephyr/subsys/net/lib/openthread/CMakeFiles/ot"
+		},
+		{
+			"file" : "/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/zephyr/subsys/net/lib/openthread/CMakeFiles/ot.rule"
+		},
+		{
+			"file" : "/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/zephyr/subsys/net/lib/openthread/CMakeFiles/ot-complete.rule"
+		},
+		{
+			"file" : "/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/zephyr/ext_proj/Stamp/ot/ot-install.rule"
+		},
+		{
+			"file" : "/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/zephyr/ext_proj/Stamp/ot/ot-mkdir.rule"
+		},
+		{
+			"file" : "/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/zephyr/ext_proj/Stamp/ot/ot-download.rule"
+		},
+		{
+			"file" : "/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/zephyr/ext_proj/Stamp/ot/ot-update.rule"
+		},
+		{
+			"file" : "/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/zephyr/ext_proj/Stamp/ot/ot-patch.rule"
+		},
+		{
+			"file" : "/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/zephyr/ext_proj/Stamp/ot/ot-configure.rule"
+		},
+		{
+			"file" : "/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/zephyr/ext_proj/Stamp/ot/ot-build.rule"
+		},
+		{
+			"file" : "/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/zephyr/ext_proj/Stamp/ot/ot-bootstrap.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ot"
+		],
+		"name" : "ot"
+	}
+}

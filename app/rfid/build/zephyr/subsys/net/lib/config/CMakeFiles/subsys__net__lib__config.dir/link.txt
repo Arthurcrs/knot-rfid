@@ -1,0 +1,2 @@
+ccache /home/acrs/zephyr-sdk-0.10.0/arm-zephyr-eabi/bin/arm-zephyr-eabi-ar qc libsubsys__net__lib__config.a  CMakeFiles/subsys__net__lib__config.dir/init.c.obj
+ccache /home/acrs/zephyr-sdk-0.10.0/arm-zephyr-eabi/bin/arm-zephyr-eabi-ranlib libsubsys__net__lib__config.a

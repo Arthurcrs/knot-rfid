@@ -1,0 +1,2 @@
+ccache /home/acrs/zephyr-sdk-0.10.0/arm-zephyr-eabi/bin/arm-zephyr-eabi-ar qc libdrivers__serial.a  CMakeFiles/drivers__serial.dir/uart_nrfx_uarte.c.obj
+ccache /home/acrs/zephyr-sdk-0.10.0/arm-zephyr-eabi/bin/arm-zephyr-eabi-ranlib libdrivers__serial.a

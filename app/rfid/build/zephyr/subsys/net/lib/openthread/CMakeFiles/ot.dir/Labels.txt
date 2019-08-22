@@ -1,0 +1,14 @@
+# Target labels
+ ot
+# Source files and their labels
+/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/zephyr/subsys/net/lib/openthread/CMakeFiles/ot
+/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/zephyr/subsys/net/lib/openthread/CMakeFiles/ot.rule
+/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/zephyr/subsys/net/lib/openthread/CMakeFiles/ot-complete.rule
+/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/zephyr/ext_proj/Stamp/ot/ot-install.rule
+/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/zephyr/ext_proj/Stamp/ot/ot-mkdir.rule
+/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/zephyr/ext_proj/Stamp/ot/ot-download.rule
+/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/zephyr/ext_proj/Stamp/ot/ot-update.rule
+/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/zephyr/ext_proj/Stamp/ot/ot-patch.rule
+/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/zephyr/ext_proj/Stamp/ot/ot-configure.rule
+/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/zephyr/ext_proj/Stamp/ot/ot-build.rule
+/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/zephyr/ext_proj/Stamp/ot/ot-bootstrap.rule

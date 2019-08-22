@@ -1,0 +1,2 @@
+ccache /home/acrs/zephyr-sdk-0.10.0/arm-zephyr-eabi/bin/arm-zephyr-eabi-ar qc libboards__arm__nrf52840_pca10059.a  CMakeFiles/boards__arm__nrf52840_pca10059.dir/board.c.obj
+ccache /home/acrs/zephyr-sdk-0.10.0/arm-zephyr-eabi/bin/arm-zephyr-eabi-ranlib libboards__arm__nrf52840_pca10059.a

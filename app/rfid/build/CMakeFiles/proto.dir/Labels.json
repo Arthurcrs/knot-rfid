@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/CMakeFiles/proto"
+		},
+		{
+			"file" : "/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/CMakeFiles/proto.rule"
+		},
+		{
+			"file" : "/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/CMakeFiles/proto-complete.rule"
+		},
+		{
+			"file" : "/home/acrs/zephyr-knot-sdk/core/build/external/proto/src/proto-stamp/proto-install.rule"
+		},
+		{
+			"file" : "/home/acrs/zephyr-knot-sdk/core/build/external/proto/src/proto-stamp/proto-mkdir.rule"
+		},
+		{
+			"file" : "/home/acrs/zephyr-knot-sdk/core/build/external/proto/src/proto-stamp/proto-download.rule"
+		},
+		{
+			"file" : "/home/acrs/zephyr-knot-sdk/core/build/external/proto/src/proto-stamp/proto-update.rule"
+		},
+		{
+			"file" : "/home/acrs/zephyr-knot-sdk/core/build/external/proto/src/proto-stamp/proto-patch.rule"
+		},
+		{
+			"file" : "/home/acrs/zephyr-knot-sdk/core/build/external/proto/src/proto-stamp/proto-configure.rule"
+		},
+		{
+			"file" : "/home/acrs/zephyr-knot-sdk/core/build/external/proto/src/proto-stamp/proto-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"proto"
+		],
+		"name" : "proto"
+	}
+}

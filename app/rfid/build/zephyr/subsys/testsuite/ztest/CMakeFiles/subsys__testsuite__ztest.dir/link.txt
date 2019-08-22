@@ -1,0 +1,2 @@
+ccache /home/acrs/zephyr-sdk-0.10.0/arm-zephyr-eabi/bin/arm-zephyr-eabi-ar qc libsubsys__testsuite__ztest.a  CMakeFiles/subsys__testsuite__ztest.dir/src/ztest.c.obj
+ccache /home/acrs/zephyr-sdk-0.10.0/arm-zephyr-eabi/bin/arm-zephyr-eabi-ranlib libsubsys__testsuite__ztest.a

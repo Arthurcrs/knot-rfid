@@ -1,0 +1,1 @@
+"tinycbor":"/home/acrs/zephyrproject/modules/lib/tinycbor"

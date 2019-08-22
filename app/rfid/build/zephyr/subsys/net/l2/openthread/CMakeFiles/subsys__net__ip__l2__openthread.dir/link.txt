@@ -1,0 +1,2 @@
+ccache /home/acrs/zephyr-sdk-0.10.0/arm-zephyr-eabi/bin/arm-zephyr-eabi-ar qc libsubsys__net__ip__l2__openthread.a  CMakeFiles/subsys__net__ip__l2__openthread.dir/openthread.c.obj CMakeFiles/subsys__net__ip__l2__openthread.dir/openthread_utils.c.obj
+ccache /home/acrs/zephyr-sdk-0.10.0/arm-zephyr-eabi/bin/arm-zephyr-eabi-ranlib libsubsys__net__ip__l2__openthread.a

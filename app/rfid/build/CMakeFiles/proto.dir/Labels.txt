@@ -1,0 +1,13 @@
+# Target labels
+ proto
+# Source files and their labels
+/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/CMakeFiles/proto
+/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/CMakeFiles/proto.rule
+/home/acrs/arthcrs@gmail.com/knot/knot-lib/app/rfid/build/CMakeFiles/proto-complete.rule
+/home/acrs/zephyr-knot-sdk/core/build/external/proto/src/proto-stamp/proto-install.rule
+/home/acrs/zephyr-knot-sdk/core/build/external/proto/src/proto-stamp/proto-mkdir.rule
+/home/acrs/zephyr-knot-sdk/core/build/external/proto/src/proto-stamp/proto-download.rule
+/home/acrs/zephyr-knot-sdk/core/build/external/proto/src/proto-stamp/proto-update.rule
+/home/acrs/zephyr-knot-sdk/core/build/external/proto/src/proto-stamp/proto-patch.rule
+/home/acrs/zephyr-knot-sdk/core/build/external/proto/src/proto-stamp/proto-configure.rule
+/home/acrs/zephyr-knot-sdk/core/build/external/proto/src/proto-stamp/proto-build.rule
